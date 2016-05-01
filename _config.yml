@@ -1,0 +1,28 @@
+name: GOTHAMPREPPER
+favicon: null
+layout_spectrum: 0.16630499437451363
+typography_spectrum: 0.2714461258146912
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.08368534850887954
+  lightness: 0.8106503412127495
+  saturation: 0.8338654679246247
+  rhythmicContrast: 0.7603657920844853
+purpose: []
